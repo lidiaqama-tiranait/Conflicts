@@ -1,0 +1,65 @@
+Samsung Galaxy S24
+
+NETWORK	Technology	
+GSM / CDMA / HSPA / EVDO / LTE / 5G
+LAUNCH	Announced	2024, January 17
+Status	Available. Released 2024, January 24
+BODY	Dimensions	147 x 70.6 x 7.6 mm (5.79 x 2.78 x 0.30 in)
+Weight	167 g or 168 g (5.89 oz)
+Build	Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame
+SIM	Nano-SIM and eSIM/ Dual eSIM or Dual SIM (2 Nano-SIMs and eSIM, dual stand-by)
+ 	IP68 dust/water resistant (up to 1.5m for 30 min)
+Armor aluminum 2 frame with tougher drop and scratch resistance (advertised)
+DISPLAY	Type	Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)
+Size	6.2 inches, 94.4 cm2 (~90.9% screen-to-body ratio)
+Resolution	1080 x 2340 pixels, 19.5:9 ratio (~416 ppi density)
+Protection	Corning Gorilla Glass Victus 2
+ 	Always-on display
+PLATFORM	OS	Android 14, One UI 6.1
+Chipset	Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China
+Exynos 2400 (4 nm) - International
+CPU	8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)
+10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)
+GPU	Adreno 750 (1 GHz) - USA/Canada/China
+Xclipse 940 - International
+MEMORY	Card slot	No
+Internal	128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM
+ 	UFS 3.1 - 128GB only
+UFS 4.0
+MAIN CAMERA	Triple	50 MP, f/1.8, 24mm (wide), 1/1.56", 1.0µm, dual pixel PDAF, OIS
+10 MP, f/2.4, 67mm (telephoto), 1/3.94", 1.0µm, PDAF, OIS, 3x optical zoom
+12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55" 1.4µm, Super Steady video
+Features	LED flash, auto-HDR, panorama
+Video	8K@24/30fps, 4K@30/60fps, 1080p@30/60/240fps, HDR10+, stereo sound rec., gyro-EIS
+SELFIE CAMERA	Single	12 MP, f/2.2, 26mm (wide), dual pixel PDAF
+Features	Dual video call, Auto-HDR, HDR10+
+Video	4K@30/60fps, 1080p@30fps
+SOUND	Loudspeaker	Yes, with stereo speakers
+3.5mm jack	No
+ 	32-bit/384kHz audio
+Tuned by AKG
+COMMS	WLAN	Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct
+Bluetooth	5.3, A2DP, LE
+Positioning	GPS, GLONASS, BDS, GALILEO, QZSS
+NFC	Yes
+Radio	No
+USB	USB Type-C 3.2, DisplayPort 1.2, OTG
+FEATURES	Sensors	Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer
+ 	Samsung DeX, Samsung Wireless DeX (desktop experience support)
+BATTERY	Type	Li-Ion 4000 mAh, non-removable
+Charging	25W wired, PD3.0, 50% in 30 min (advertised)
+15W wireless (Qi/PMA)
+4.5W reverse wireless
+MISC	Colors	Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sandstone Orange, Sapphire Blue
+Models	SM-S921B, SM-S921B/DS, SM-S921U, SM-S921U1, SM-S921W, SM-S921N, SM-S9210, SM-S921E, SM-S921E/DS
+SAR	1.23 W/kg (head)     1.10 W/kg (body)    
+SAR EU	0.87 W/kg (head)     1.35 W/kg (body)    
+Price	$ 479.98 / € 597.90 / £ 469.69 / ₹ 59,250
+TESTS	Performance	AnTuTu: 1218977 (v9), 1696727 (v10)
+GeekBench: 5833 (v5), 6747 (v6)
+3DMark Wild life: 14351 (offscreen 1440p)
+Display	Contrast ratio: Infinite (nominal)
+Camera	Photo / Video
+Loudspeaker	-25.2 LUFS (Very good)
+Battery (new)	
+Active use score 12:06h
