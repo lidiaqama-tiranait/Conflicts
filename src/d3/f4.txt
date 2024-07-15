@@ -46,7 +46,7 @@ Charging	Wired, PD2.0, 50% in 30 min (advertised)
 15W wireless (MagSafe)
 15W wireless (Qi2) - requires iOS 17.2 update
 4.5W reverse wired
-MISC	Colors	Black, Blue, Green, Yellow, Pink
+MISC	Colors	Black, Blue, Green, Pink, Aquamarine
 Models	A3090, A2846, A3089, A3092, iPhone15,4
 SAR	1.12 W/kg (head)     1.14 W/kg (body)    
 SAR EU	0.98 W/kg (head)     0.98 W/kg (body)    
