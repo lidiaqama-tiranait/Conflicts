@@ -5,7 +5,7 @@ GSM / CDMA / HSPA / EVDO / LTE / 5G
 LAUNCH	Announced	2024, January 17
 Status	Available. Released 2024, January 24
 BODY	Dimensions	147 x 70.6 x 7.6 mm (5.79 x 2.78 x 0.30 in)
-Weight	167 g or 168 g (5.89 oz)
+Weight	157 g or 158 g (5.89 oz)
 Build	Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame
 SIM	Nano-SIM and eSIM/ Dual eSIM or Dual SIM (2 Nano-SIMs and eSIM, dual stand-by)
  	IP68 dust/water resistant (up to 1.5m for 30 min)
