@@ -1,10 +1,10 @@
 Iphone 15
 NETWORK	Technology	
 GSM / CDMA / HSPA / EVDO / LTE / 5G
-LAUNCH	Announced	2023, September 12
-Status	Available. Released 2023, September 22
+LAUNCH	Announced	2023, July 12
+Status	Available. Released 2023, July 22
 BODY	Dimensions	147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in)
-Weight	171 g (6.03 oz)
+Weight	151 g (6.03 oz)
 Build	Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame
 SIM	Nano-SIM and eSIM - International
 Dual eSIM with multiple numbers - USA
@@ -46,11 +46,11 @@ Charging	Wired, PD2.0, 50% in 30 min (advertised)
 15W wireless (MagSafe)
 15W wireless (Qi2) - requires iOS 17.2 update
 4.5W reverse wired
-MISC	Colors	Black, Blue, Green, Yellow, Pink
+MISC	Colors	Black, Blue, Green, Pink, Aquamarine
 Models	A3090, A2846, A3089, A3092, iPhone15,4
 SAR	1.12 W/kg (head)     1.14 W/kg (body)    
 SAR EU	0.98 W/kg (head)     0.98 W/kg (body)    
-Price	$ 616.42 / € 716.39 / £ 599.00 / ₹ 70,999
+Price	$ 616.42 / € 716.39 / £ 599.00 / ₹ 80,999
 TESTS	Performance	AnTuTu: 1354651 (v10)
 GeekBench: 6526 (v6)
 GFXBench: 60fps (ES 3.1 onscreen)
