@@ -3,10 +3,11 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+/* CSS styles for the form */
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
-input[type=text], select, textarea {
+input[type=text], input[type=email], select, textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
@@ -42,26 +43,48 @@ input[type=submit]:hover {
 <h3>Contact Form</h3>
 
 <div class="container">
-  <form action="/action_page.php">
+  <form action="/action_page.php" method="post" onsubmit="return validateForm()">
+    <!-- Form fields -->
     <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
 
     <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="Your email.." required>
 
     <label for="country">Country</label>
-    <select id="country" name="country">
+    <select id="country" name="country" required>
       <option value="australia">Australia</option>
       <option value="canada">Canada</option>
       <option value="usa">USA</option>
+      <option value="uk">United Kingdom</option> <!-- Added option -->
     </select>
 
     <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required></textarea>
 
+    <!-- Submit button -->
     <input type="submit" value="Submit">
   </form>
 </div>
+
+<script>
+function validateForm() {
+  var fname = document.getElementById("fname").value;
+  var lname = document.getElementById("lname").value;
+  var email = document.getElementById("email").value;
+  var country = document.getElementById("country").value;
+  var subject = document.getElementById("subject").value;
+  
+  if (fname == "" || lname == "" || email == "" || country == "" || subject == "") {
+    alert("All fields must be filled out");
+    return false;
+  }
+  return true;
+}
+</script>
 
 </body>
 </html>
