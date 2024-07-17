@@ -54,7 +54,7 @@ MISC	Colors	Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sa
 Models	SM-S921B, SM-S921B/DS, SM-S921U, SM-S921U1, SM-S921W, SM-S921N, SM-S9210, SM-S921E, SM-S921E/DS
 SAR	1.23 W/kg (head)     1.10 W/kg (body)    
 SAR EU	0.87 W/kg (head)     1.35 W/kg (body)    
-Price	$ 479.98 / € 597.90 / £ 469.69 / ₹ 59,250
+Price	$ 479.98 / € 597.90 / £ 469.69 / ₹ 59,250 / leke 47,000
 TESTS	Performance	AnTuTu: 1218977 (v9), 1696727 (v10)
 GeekBench: 5833 (v5), 6747 (v6)
 3DMark Wild life: 14351 (offscreen 1440p)
